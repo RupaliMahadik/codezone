@@ -1,0 +1,49 @@
+.img-cartoon {
+  -webkit-transform: scale(0.8);
+  transform: scale(0.8);
+  -webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+  position: initial;
+  z-index: 88888;
+}
+
+.img-cartoon:hover {
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+  -webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+  box-shadow: 10px 10px 5px #ddd;
+  z-index: 99999;
+}
+
+.pagination>.active>a,
+.pagination>.active>a:focus,
+.pagination>.active>a:hover,
+.pagination>.active>span,
+.pagination>.active>span:focus,
+.pagination>.active>span:hover {
+
+  background-color: black;
+}
+
+.pagination>li>a,
+.pagination>li>span {
+  color: black;
+}
+
+.container-fluid {
+  padding-left: 25px;
+  padding: bottom 90px;
+
+}
+
+.fixed-table-pagination .pagination-detail, .fixed-table-pagination div.pagination {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-bottom: 100px;
+}
+
+body {
+padding-top: 50px;
+}
+
