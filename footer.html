@@ -91,7 +91,7 @@ nav ul li a:visited {
 nav ul li a:hover,
 nav ul li a:visited:hover {
     background: #2581DC;
-    color: #ffffff;
+    color: black;
 }
 nav ul li a:not(:only-child):after,
 nav ul li a:visited:not(:only-child):after {
@@ -172,7 +172,7 @@ margin-right:8px;
     border-radius: 1px;
     height: 5px;
     width: 25px;
-    background: #ffffff;
+    background: black;
     position: absolute;
 
     content: '';
@@ -196,14 +196,6 @@ margin-right:8px;
 #nav-toggle.active span:after {
     transform: rotate(-45deg);
 }
-
-article {
-    max-width: 1000px;
-    margin: 0 auto;
-    padding: 10px;
-}
-
-
 </style>
     <section class="navigation">
         <div class="nav-container">
@@ -211,7 +203,11 @@ article {
                 <a class="navbar-brand gg-brand" href="#"><img id="logo" src="images/logo.png"></a>
             </div>
             <nav>
-                <div class="nav-mobile"><a id="nav-toggle" href="#!"><span></span></a></div>
+                <div class="nav-mobile">
+                    <a id="nav-toggle" href="#!"><span></span></a></div>
+
+
+
                 <ul class="nav-list">
                     <li>
                         <a href="#!">Home</a>
