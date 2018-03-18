@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>my app</title>
+</head>
+<style>
+    * {
+        box-sizing: border-box;
+    }
+
+    #myInput {
+       
+       
+        width: 100%;
+        font-size: 16px;
+        padding: 12px 20px 12px 40px;
+        border: 1px solid #ddd;
+        margin-bottom: 12px;
+    }
+
+    #myTable {
+        border-collapse: collapse;
+        width: 100%;
+        border: 1px solid #ddd;
+        font-size: 18px;
+    }
+
+    #myTable th,
+    #myTable td {
+        text-align: left;
+        padding: 12px;
+    }
+
+    #myTable tr {
+        border-bottom: 1px solid #ddd;
+    }
+
+    #myTable tr.header,
+    #myTable tr:hover {
+        background-color: #f1f1f1;
+    }
+</style>
+
+<body>
+    <h2>Employee Search</h2>
+    <form action="/action_page.php" method="get">
+        <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name">
+        <input type="checkbox" id="xemployee"> Include Terminated Employee
+        <input type="checkbox" name="allrecord"> Limit results
+        <br>
+        <table id="myTable">
+            <thead>
+                <tr>
+                    <th title="Field #2">photo</th>
+                    <th title="Field #3">Name</th>
+                    <th title="Field #4">telephone no</th>
+                    <th title="Field #5">status</th>
+
+                </tr>
+            </thead>
+            <tbody class="employee_record">
+
+            </tbody>
+
+            
+        </table>
+
+
+</body>
+<script>
+    var search = document.getElementById("myInput");
+    search.style.color="red";
+    search.style.fontSize= '12px';
+//
+    function getJson(url,callback){
+        var xhttp= new XMLHttpRequest();
+        xhttp.onreadystatechange=function(){
+            if(this.readyState==4 && this.status==200){
+                var json = JSON.parse(this.responseText);
+                callback(json);
+            }
+        };
+        xhttp.open("GET",url,true);
+        xhttp.send();
+    }
+
+    function renderemployee(employee){
+        var row= document.createElement("tr");
+
+        row.setAttribute('id', employee.id);
+
+        // row.innerHTML = employee.id;
+
+        // TODO - fill in table cells
+
+        return row;
+
+    }
+
+    getJson('employee.json', function(employeeData) {
+        // console.log(employeeData);
+            
+        var tableBody = document.querySelector('.employee_record');
+
+        for(var i = 0; i < employeeData.length; i++) {
+            // renderemployee(employeeData[i])
+            var row=  renderemployee(employeeData[i]);
+
+            tableBody.appendChild(row);
+        }
+    })
+</script>
+
+</html>
