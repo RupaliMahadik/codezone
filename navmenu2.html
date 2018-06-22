@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+
+    <title>Navbar</title>
+</head>
+<style>
+    /*.navbar navbar-default*/
+
+    /* important */
+    nav ul li {
+        display: inline-block;
+
+
+        -webkit-transition: all 0.2s;
+        -moz-transition: all 0.2s;
+        -ms-transition: all 0.2s;
+        -o-transition: all 0.2s;
+        transition: all 0.2s;
+    }
+
+          nav > ul > li > a > .caret {
+            border-top: 4px solid #aaa;
+            border-right: 4px solid transparent;
+            border-left: 4px solid transparent;
+            content: "";
+            display: inline-block;
+            height: 0;
+            width: 0;
+            vertical-align: middle;
+
+            -webkit-transition: color 0.1s linear;
+               -moz-transition: color 0.1s linear;
+               -o-transition: color 0.1s linear;
+              transition: color 0.1s linear;
+          }
+
+    nav > ul > li > a {
+        color: #aaa;
+        display: block;
+        line-height: 156px;
+
+        padding: 0 24px;
+        text-decoration: none;
+    }
+
+    nav > ul > li:hover {
+        background-color: rgb( 40, 44, 47 );
+    }
+
+    /*         nav > ul > li:hover > a {
+              color: red;
+            } */
+
+            nav > ul > li:hover > a > .caret {
+              border-top-color: rgb( 255, 255, 255 );
+            }
+
+    nav > ul > li > div {
+        background-color: red;
+        border-top: 0;
+        border-radius: 0 0 4px 4px;
+        box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.055);
+        display: none;
+        margin: 0;
+        opacity: 0;
+        PADDING-TOP:20PX;
+        HEIGHT:50PX;
+        position: absolute;
+        width: 100px;
+        Left:1px;
+
+
+        -webkit-transiton: opacity 0.2s;
+        -moz-transition: opacity 0.2s;
+        -ms-transition: opacity 0.2s;
+        -o-transition: opacity 0.2s;
+        -transition: opacity 0.2s;
+    }
+
+    nav > ul > li:hover > div {
+        display:block;
+        opacity: 1;
+        width:100%;
+        visibility: visible;
+    }
+
+    /*           nav > ul > li > div ul > li {
+          display:inline;
+              } */
+
+    nav > ul > li > div ul > li > a {
+        color: #fff;
+        display:inline;
+        padding: 12px 24px;
+        text-decoration: none;
+    }
+
+    /*               nav > ul > li > div ul > li:hover > a {
+                    background-color: rgba( 255, 255, 255, 0.1);
+                  } */
+
+
+</style>
+<nav>
+    <ul>
+        <li><a href="home.html">Home</a></li>
+        <li>
+            <a href="products.html">Products <span class="caret"></span></a>
+            <div>
+                <ul>
+                    <li><a href="products.html#chair">Chair</a></li>
+                    <li><a href="products.html#table">Table</a></li>
+                    <li><a href="cooker.html">Cooker</a></li>
+                </ul>
+            </div>
+        </li>
+        <li>
+            <a href="products.html">Products <span class="caret"></span></a>
+            <div>
+                <ul>
+                    <li><a href="products.html#chair">Chair</a></li>
+                    <li><a href="products.html#table">Table</a></li>
+                    <li><a href="cooker.html">Cooker</a></li>
+                </ul>
+            </div>
+        </li>
+        <li>
+            <a href="products.html">Products <span class="caret"></span></a>
+            <div>
+                <ul>
+                    <li><a href="products.html#chair">Chair</a></li>
+                    <li><a href="products.html#table">Table</a></li>
+                    <li><a href="cooker.html">Cooker</a></li>
+                </ul>
+            </div>
+        </li>
+    </ul>
+</nav>
+    </body>
+</html>

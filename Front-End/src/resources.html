@@ -1,76 +1,257 @@
-    <!DOCTYPE html>
-      <html lang="en">
-        <head>
-            <meta charset="utf-8">
-            <meta http-equiv="X-UA-Compatible" content="IE=edge">
-            <meta name="viewport" content="width=device-width, initial-scale=1">
-            <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
 
-            <title>Resources</title>
-             
-            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <title>Resources</title>
 
-             <!--[if lt IE 9]>
+     <!--[if lt IE 9]>
 
-            <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
 
-            <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 
-            <![endif]-->
+    <![endif]-->
 
-            <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="libraries/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="libraries/bootstrap/css/bootstrap-table.min.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+
+    <script src="libraries/w3.js"></script>
+    <div w3-include-html="header.html"></div>
+    <script>w3.includeHTML();</script>
     
-        </head>
-        <body>
-        <script src="https://www.w3schools.com/lib/w3.js"></script>
-        <div w3-include-html="header.html"></div> 
-        <script>w3.includeHTML();</script>
+    <h2 id="about" class="about-heading">Resources</h2>
+    <div class="row">
+        <div class="cover-resources resources-top-img">
+            <div class="cover-text">
+                <div class="content">
+                    <h1>GlyGen's online library of resources for science in glycobiology.</h1>
+                    <hr id="img-hr">
+                    <div class="col-sm-12 cover-text resource-img" style="text-align: center;">
+                        <div class="col-md-4">
+                            <img src="images/glycan.png" alt="glycan image" style="width: 160px; text-align2: center;">
+                            <h6>Glycan</h6>
+                        </div>
+                
+                        <div class="col-md-4">
+                            <img src="images/protein.png" alt="glycan image" style="width: 160px; text-align2: center;">
+                            <h6>Protein</h6>
+                        </div>
 
-        <div class="container" style="margin-bottom: 350px;">
-            <h1 style="color: #ff5249;">Coming soon</h1> 
-            <h3><strong>Explore Other Resources</strong></h3>
+                         <div class="col-md-4">
+                            <img src="images/glycoprotein.png" alt="glycan image" style="width: 160px; text-align2: center;">
+                            <h6>GlycoProtein</h6>
+                        </div>
+                    </div>
+                
+                </div>
+            </div>
+        </div>    
+    </div>
+    
+    <div class="container">
+        <div class="row margin-top margin-bottom">
+            <table data-toggle="table"
+            data-sort-name="stargazers_count"
+            data-sort-order="desc">
+                <thead id="resources">
+                <tr>
+                    <th data-field="category" 
+                        data-sortable="true">
+                            Category
+                    </th>
+                    <th data-field="resource" 
+                        data-sortable="true">
+                            Resource
+                    </th>
+                    <th data-field="description" 
+                        data-sortable="false">
+                            Description
+                    </th>
+                    <th data-field="link" 
+                        data-sortable="false">
+                            Link
+                    </th>
+                    <th data-field="glycan" 
+                        data-sortable="true">
+                            Glycan
+                    </th>
+                    <th data-field="protein" 
+                        data-sortable="true">
+                            Protein
+                    </th>
+                    <th data-field="glycoprotein" 
+                        data-sortable="true">
+                            GlycoProtein
+                    </th>
+                </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Database</td>
+                        <td>CAZy</td>
+                        <td>Description</td>
+                        <td><a href="http://www.cazy.org/" target="_blank">link</a></td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                    </tr>  
+                    <tr>
+                        <td>Database</td>
+                        <td>CSDB: Carbohydrate Structure Database</td>
+                        <td>Description</td>
+                        <td><a href="http://csdb.glycoscience.ru" target="_blank">link</a></td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                    </tr>
+                    <tr>
+                        <td>Database</td>
+                        <td>Glycomics@ExPASy</td>
+                        <td>Description</td>
+                        <td><a href="https://www.expasy.org/glycomics" target="_blank">link</a></td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                    </tr>
+                    <tr>
+                        <td>Database</td>
+                        <td>LipidBank</td>
+                        <td>Description</td>
+                        <td><a href="http://jcbl.jp/wiki/Main_Page" target="_blank">link</a></td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                    </tr>
+                    <tr>
+                        <td>Database</td>
+                        <td>GlyConnect</td>
+                        <td>Is a platform integrating sources of information to help characterise the molecular components of protein glycosylation.</td>
+                        <td><a href="https://glyconnect.expasy.org/" target="_blank">link</a></td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                    </tr>
+                    <tr>
+                        <td>Knowledgebase</td>
+                        <td>CAYypedia</td>
+                        <td>Description</td>
+                        <td><a href="https://www.cazypedia.org/index.php/Main_Page" target="_blank">link</a></td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                    </tr>
+                    <tr>
+                        <td>Knowledgebase</td>
+                        <td>Glycopedia</td>
+                        <td>Description</td>
+                        <td><a href="https://www.glycopedia.eu/" target="_blank">link</a></td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                    </tr>
+                    <tr>
+                        <td>Knowledgebase</td>
+                        <td>UniCarbKB</td>
+                        <td>Is a knowledge base for curated glycoconjugate information and their annotations.</td>
+                        <td><a href="http://www.unicarbkb.org" target="_blank">link</a></td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                    </tr>
+                    <tr>
+                        <td>Informatics Initiative</td>
+                        <td>GLIC: Glycoinformatics Consortium</td>
+                        <td>Description</td>
+                        <td><a href="https://glic.glycoinfo.org/" target="_blank">link</a></td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                    </tr>
+                    <tr>
+                        <td>Database/Tool</td>
+                        <td>GlycoStore</td>
+                        <td>Description</td>
+                        <td><a href="https://www.glycostore.org/" target="_blank">link</a></td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                    </tr>
+                    <tr>
+                        <td>Data-processing Tool</td>
+                        <td>GRITS Toolbox</td>
+                        <td>Description</td>
+                        <td><a href="http://www.grits-toolbox.org/" target="_blank">link</a></td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                    </tr>
+                    <tr>
+                        <td>Tools</td>
+                        <td>VirtualGlycome</td>
+                        <td>Description</td>
+                        <td><a href="https://virtualglycome.org/" target="_blank">link</a></td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                    </tr>
+                    <tr>
+                        <td>Integrated Databases</td>
+                        <td>ACGG-DB</td>
+                        <td>Description</td>
+                        <td><a href="https://acgg.asia/db/" target="_blank">link</a></td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                    </tr>
+                    <tr>
+                        <td>Consortium/Inititative</td>
+                        <td>MIRAGE</td>
+                        <td>Description</td>
+                        <td><a href="http://www.beilstein-institut.de/en/projects/mirage" target="_blank">link</a></td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                    </tr>
+                    <tr>
+                        <td>Structure Repository</td>
+                        <td>GlyTouCan</td>
+                        <td>Is the international glycan structure repository. It assigns globally unique accession numbers to any submitted glycan.</td>
+                        <td><a href="https://glytoucan.org/" target="_blank">link</a></td>
+                        <td>Yes</td>
+                        <td>-</td>
+                        <td>-</td>
+                    </tr>
+                    <tr>
+                        <td>Structure Repository</td>
+                        <td>UniProt</td>
+                        <td>Is a freely available, comprehensive resource of high quality protein sequences and functional annotations.</td>
+                        <td><a href="http://www.uniprot.org/" target="_blank">link</a></td>
+                        <td>-</td>
+                        <td>Yes</td>
+                        <td>-</td>
+                    </tr>
+                </tbody>
+            </table>
             
-            <div class="caption text-left">
-
-                <p>
-                    <a href="https://glytoucan.org/" target="_blank" style="text-decoration: none;">
-                        <strong><em>
-                            GlyTouCan
-                        </em></strong>
-                    </a>
-                    <br> 
-                        is the international glycan structure repository. It assigns globally unique accession numbers to any submitted glycan.
-                </p>
-
-                <p>
-                    <a href="http://www.uniprot.org/" target="_blank" style="text-decoration: none;">
-                        <strong><em>
-                            UniProt
-                        </em></strong>
-                    </a>
-                    <br>
-                        is a freely available, comprehensive resource of high quality protein sequences and functional annotations.
-                    <br>
-                </p>
-
-                <p>
-                    <a href="http://www.unicarbkb.org/" target="_blank" style="text-decoration: none;">
-                        <strong><em>
-                            UniCarbKB
-                        </em></strong>
-                    </a>
-                    <br>
-                        is a knowledge base for curated glycoconjugate information and their annotations.
-                    <br>
-                </p>
-            </div> 
-
+            
         </div>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    </div> 
+    <div w3-include-html="footer.html"></div>
+    <script type="text/javascript" src="libraries/jquery/jquery-3.1.js"></script>
+    <script>jQuery.noConflict();</script>
+    <script type="text/javascript" src="libraries/bootstrap/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="libraries/bootstrap/js/bootstrap-table.min.js"></script>
     <script src="js/navbar.js"></script>
     <script src="js/ws_url.js"></script>    <!-- script for getting Web Service URLs -->
-    <script src="js/activity_tracker.js"></script>  <!-- script for logging activity -->
-    <div w3-include-html="footer.html"></div>
-    </body>
+    <script src="js/activity_tracker.js"></script>  <!-- script for logging activity -->    
+    <script src="js/utility.js"></script>
+    
+</body>
 </html>

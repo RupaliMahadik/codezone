@@ -3,6 +3,11 @@
 // @description: UO1 Version-1.1.
 // @Date: 8th Mar 2018.
 
+/**
+ * Represents a navbar.
+ * @param {string} itemText - Selected text on navigation bar.
+ */
+
 function setNavItemAsCurrent(itemText) {
     $('.nav > li > a').each(function() {
         if($(this).text().indexOf(itemText) >= 0) {
@@ -21,9 +26,9 @@ $(document).ready(function(){
         navItemText = 'HOME';
     } else if(navItemText == 'GLYCAN SEARCHPAGE') {
         navItemText = 'EXPLORE';
-    } else if(navItemText == 'PROTEIN SEARCHPAGE') {
+    } else if(navItemText == 'PROTEIN SEARCH') {
         navItemText = 'EXPLORE';
-    } else if(navItemText == 'GLYCOPROTEIN SEARCHPAGE') {
+    } else if(navItemText == 'GLYCOPROTEIN SEARCH') {
         navItemText = 'EXPLORE';
     } else if(navItemText == 'ABOUT') {
         navItemText = 'ABOUT';

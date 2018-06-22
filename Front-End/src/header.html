@@ -1,20 +1,15 @@
- <div class="alert navbar-fixed gg-alert fade in" id="tracking_banner">
-<!--    <span><strong>GlyGen</strong> wants to improve <em>user experients and search results</em>. Do you want <strong>GlyGen</strong> to remember your searches? You can change this settings at any time in the <strong>My GlyGen</strong> section.</span>-->
+<div class="alert navbar-fixed gg-alert fade in" id="tracking_banner">
     
-    <span>Do you want <strong>GlyGen</strong> to remember your searches for your future use? This can be changed at any time in the <strong>My GlyGen</strong> section.</span>
+<span>Do you want <strong>GlyGen</strong> to remember your searches for your future use? This can be changed at any time in the <strong>My GlyGen</strong> section.</span>
 
-<!--
-    <button type="button" class="btn btn-default gg-btn-primary2 gg-btn-margin" onclick='logID()'><a href="#" class="gg-btn-primary2" data-dismiss="alert" aria-label="close">Allow</a></button>
-   
-    <button type="button" class="btn btn-default gg-btn-primary2 " onclick='doNotLog()'><a href="#" class="gg-btn-primary2" data-dismiss="alert" aria-label="close">Don't Allow</a></button>
--->
+<br>
 
- <button type="button" class="btn btn-default gg-btn-primary2 gg-btn-margin" onclick='logID()'>Allow</button>
+<button type="button" class="btn btn-default gg-btn-margin" onclick='logID()'>Allow</button>
    
-<button type="button" class="btn btn-default gg-btn-primary2 " onclick='doNotLog()'>Don't Allow</button>
+<button type="button" class="btn btn-default gg-btn-margin" onclick='doNotLog()'>Don't Allow</button>
 
 </div>
-
+<!----> 
 <nav class="navbar navbar-inverse gg-navbar gg-navbar-inverse">
     <div class="container-fluid">
         <div class="navbar-header"> 
@@ -23,7 +18,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>                   
             </button>
-            <a class="navbar-brand gg-brand2" href="index.html"><img id="logo" src="images/glygenW_logo.png">
+            <a class="navbar-brand" href="index.html"><img id="logo" src="images/logo-glygen.svg">
             </a>
         </div>
         
@@ -41,12 +36,15 @@
                             <a alt="glycan" href="glycan_searchpage.html">Glycan</a>
                         </li>
                         <li>
-                            <a alt="protein" href="#">Protein</a>
+                            <a alt="protein" href="protein_search.html">Protein</a>
                         </li>
                         <li>
-                            <a alt="proteoform" href="#">Glycoprotein</a>
+                            <a alt="proteoform" href="glycoprotein_search.html">Glycoprotein</a>
                         </li>
                     </ul>
+                </li>
+                <li>
+                    <a alt="quick search" href="index.html#tryMe">TRY ME</a>
                 </li>
                 <li>
                     <a alt="quick search" href="quick_search.html">QUICK SEARCH</a>
@@ -107,11 +105,12 @@
             </form>
             <ul class="nav navbar-nav gg-nav-nav pull-right">
                 <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                        <span class="glyphicon glyphicon-user"></span> 
-                        MY GLYGEN 
-                        <span class="caret"></span>
+<!--                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">-->
+                    <a href="glygen_settings.html">   
+                        <span class="glyphicon glyphicon-user"></span> MY GLYGEN 
+<!--                        <span class="caret"></span>-->
                     </a>
+<!--
                     <ul class="dropdown-menu gg-dropd-menu">
                         <li>
                             <a href="glygen_settings.html" class="gg-dropd-backr">
@@ -119,24 +118,26 @@
                             </a>
                         </li>
                     </ul>
+-->
                 </li>
             </ul>
         </div>
     </div>
 </nav>
-  <!-- breadcrumbs for page
-  <div class="bs-example">
-        <ul class="breadcrumb">
-          <li>
+
+<!-- breadcrumbs for page
+<div class="bs-example">
+    <ul class="breadcrumb">
+        <li>
             <a href="index.html">Home</a>
-          </li>
-          <li>
+        </li>
+        <li>
             <a href="glycan_searchpage.html">GlycanSearch</a>
-          </li>
-          <li>
+        </li>
+        <li>
             <a href="listpage.html">GlycanList</a>
-          </li>
-          <li class="details.html">GlycanDetails</li>
-        </ul>
-      </div>  
-    -->
+        </li>
+          
+        <li class="details.html">GlycanDetails</li>
+    </ul>
+</div>  -->

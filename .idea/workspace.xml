@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c7dda79-ddfb-434d-9848-7f3de5243705" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/navbar1.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/navmenu2.html" />
+      <change beforePath="$PROJECT_DIR$/FE with documentation and serachpage chages.zip" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Front-End/src/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Front-End/src/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Front-End/src/about.html" afterPath="$PROJECT_DIR$/Front-End/src/about.html" />
+      <change beforePath="$PROJECT_DIR$/Front-End/src/css/style.css" afterPath="$PROJECT_DIR$/Front-End/src/css/style.css" />
+      <change beforePath="$PROJECT_DIR$/Front-End/src/css/styledetail.css" afterPath="$PROJECT_DIR$/Front-End/src/css/styledetail.css" />
+      <change beforePath="$PROJECT_DIR$/Front-End/src/css/stylelist.css" afterPath="$PROJECT_DIR$/Front-End/src/css/stylelist.css" />
+      <change beforePath="$PROJECT_DIR$/Front-End/src/details.html" afterPath="$PROJECT_DIR$/Front-End/src/details.html" />
+      <change beforePath="$PROJECT_DIR$/Front-End/src/glycan_searchpage.html" afterPath="$PROJECT_DIR$/Front-End/src/glycan_searchpage.html" />
+      <change beforePath="$PROJECT_DIR$/Front-End/src/images/GlyGen3.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Front-End/src/images/glygen-components.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Front-End/src/index.html" afterPath="$PROJECT_DIR$/Front-End/src/index.html" />
+      <change beforePath="$PROJECT_DIR$/Front-End/src/js/glycan_searchpage.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Front-End/src/js/scriptlist.js" afterPath="$PROJECT_DIR$/Front-End/src/js/scriptlist.js" />
+      <change beforePath="$PROJECT_DIR$/Front-End/src/js/searchpage.js" afterPath="$PROJECT_DIR$/Front-End/src/js/searchpage.js" />
+      <change beforePath="$PROJECT_DIR$/Front-End/src/js/ws_url.js" afterPath="$PROJECT_DIR$/Front-End/src/js/ws_url.js" />
+      <change beforePath="$PROJECT_DIR$/Front-End/src/listpage.html" afterPath="$PROJECT_DIR$/Front-End/src/listpage.html" />
+      <change beforePath="$PROJECT_DIR$/Front-End/src/searchpage.html" afterPath="$PROJECT_DIR$/Front-End/src/searchpage.html" />
+      <change beforePath="$PROJECT_DIR$/cube.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/employee.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/footer.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/footer2.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fulllistpage.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h:fwith search.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/logo-gwu.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/logo-uga6.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/listpage.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_project2.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/myproject.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/src.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/.vscode/settings.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Header.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/about.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-table.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-theme.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-theme.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-theme.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-theme.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bootstrap/css/bootstrap.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bootstrap/css/bootstrap.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bootstrap/css/bootstrap.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bootstrap/css/bootstrap.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bootstrap/js/bootstrap-table.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bootstrap/js/bootstrap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bootstrap/js/bootstrap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bootstrap/js/npm.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/contact.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/css/faq_style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/css/nouislider.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/css/nouislider.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/css/reset.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/css/searchpage.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/css/sidebar.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/css/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/css/styledetail.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/css/stylelist.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/details.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/disclaimer.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/footer.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/glycan_searchpage.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/glygen_settings.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/images/220px-GPLv3_Logo.svg.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/images/CC_BY-NC-ND_3.0.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/images/CC_BY-ND_3.0.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/images/CC_BY_4.0.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/images/CreativeCommons_logo_trademark.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/images/GlyGen.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/images/glycan.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/images/glycoprotein.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/images/glygenW_logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/images/logo-gwu.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/images/logo-uga.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/images/page_loading.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/images/protein.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/images/sky.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/images/survey.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/images/survey6F.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/images/team/Gaurav-Agarval.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/images/team/Rupali-Mahadik.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/images/team/Tatiana.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/images/team/Will-York.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/images/team/graduation.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/images/tweeter.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/js/activity_tracker.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/js/bootstrap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/js/contact.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/js/currency-autocomplete.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/js/faq_main.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/js/glygen_settings.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/js/jquery-1.9.1.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/js/jquery.autocomplete.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/js/modernizr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/js/moment.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/js/mustache.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/js/navbar.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/js/nouislider.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/js/nouislider.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/js/scriptdetail.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/js/scriptlist.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/js/searchpage.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/js/validator.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/js/ws_url.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/license.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/listpage.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/localStorage.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/modal.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/privacy-policy.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/quick_search.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/reset_settings.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/searchpage.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/sidenavigation.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/survey.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/typography.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/table.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test2.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test3.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test4.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wayoffunction.html" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="provista.html" pinned="false" current-in-tab="true">
+              <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/provista.html">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="210">
+                    <caret line="14" column="45" lean-forward="true" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="navbar1.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/navbar1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="54" column="4" lean-forward="false" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navmenu2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/navmenu2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="945">
+              <caret line="63" column="8" lean-forward="false" selection-start-line="63" selection-start-column="8" selection-end-line="82" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Myglygen-frontend/Front-End/src/template.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="11" lean-forward="false" selection-start-line="25" selection-start-column="4" selection-end-line="26" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/navmenu2.html" />
+        <option value="$PROJECT_DIR$/navbar1.html" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.html" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/protein_P05067.json" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/provista.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/Front-End/node_modules" />
+    <handled-path value="$PROJECT_DIR$/Myglygen-frontend/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="782" />
+    <option name="y" value="38" />
+    <option name="width" value="1058" />
+    <option name="height" value="957" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="codezone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codezone" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="HTML" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c7dda79-ddfb-434d-9848-7f3de5243705" name="Default" comment="" />
+      <created>1526957271862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526957271862</updated>
+      <workItem from="1526957273171" duration="2545000" />
+      <workItem from="1527702981436" duration="2056000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4601000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="782" y="38" width="1058" height="957" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24952741" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Myglygen-frontend/node_modules/karma/config.tpl.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/navbar1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/navmenu2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="63" column="8" lean-forward="false" selection-start-line="63" selection-start-column="8" selection-end-line="82" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Myglygen-frontend/Front-End/src/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="11" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="26" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Myglygen-frontend/Front-End/src/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="11" lean-forward="false" selection-start-line="25" selection-start-column="4" selection-end-line="26" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/navmenu2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="63" column="8" lean-forward="false" selection-start-line="63" selection-start-column="8" selection-end-line="82" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/provista.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="45" lean-forward="true" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/navbar1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="54" column="4" lean-forward="false" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/protein_P05067.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="807">
+          <caret line="339" column="1" lean-forward="false" selection-start-line="339" selection-start-column="1" selection-end-line="339" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
